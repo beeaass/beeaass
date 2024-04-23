@@ -1,6 +1,6 @@
 <h2 align="left">Hello!  My name is Alexander, and I'm a novice developer from some place in Belarus.</h2>
 <h2 align="left"> I'm passionate about learning new technologies and creating innovative solutions.</h2>
----
+
 ###
 
 <div align="center">
@@ -8,6 +8,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
+
 ###
 
 <div align="center">
