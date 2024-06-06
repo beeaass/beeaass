@@ -1,23 +1,19 @@
-<h2 align="left">Hello!  My name is Alexander, and I'm a novice developer from some place in Belarus.</h2>
-<h2 align="left"> I'm passionate about learning new technologies and creating innovative solutions.</h2>
-
-###
+<h1 align="center">👋 Hello there! I'm Alexander</h1>
+<p align="center">A novice developer from the beautiful land of Belarus, eager to explore the realms of technology and innovation.</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <h2>Tech I Work With</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"  />
 </div>
 
-###
-
 <div align="center">
+  <h2>Connect with Me</h2>
   <a href="https://discordapp.com/users/797056799399870464" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="Discord logo"  />
   </a>
   <a href="https://t.me/lifedevelloper" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="Telegram logo"  />
   </a>
 </div>
-
-###
