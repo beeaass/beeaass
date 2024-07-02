@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="250" src="https://steamuserimages-a.akamaihd.net/ugc/850466350748625547/62D71527011B9107A66A2D8B6A9EBE62D227BFCB/"  />
-</div>
-
 ###
 
 <div align="center">
